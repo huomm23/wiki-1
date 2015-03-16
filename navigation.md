@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[OpenDAS](http://www.opendas.org)
+[OpenCAS](http://www.opencas.org)
 [About](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
