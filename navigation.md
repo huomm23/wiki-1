@@ -27,6 +27,7 @@
   * [2014](pages/events/2014.md)
   * [2015](pages/events/2015.md)
 
+[Meetup](pages/meetup.md)
 [Help](pages/help.md)
 [About](pages/about.md)
 
