@@ -24,7 +24,6 @@
 [Forum](https://forum.opencas.org)
 [Events]()
 
-  * # SubMenu Heading 1
   * [2014](pages/events/2014.md)
   * [2015](pages/events/2015.md)
 
