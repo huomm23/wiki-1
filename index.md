@@ -7,7 +7,28 @@
 
 ## Events
 
-OpenCAS特色活动
+- 2013.09.28 软件自由日（SFD） 中科院站
+- 2013.10.26 参观火狐中国
+- 2013.10.26 北京GDG Devfest
+- 2013.11.02 UbuntuKylin 13.10发布会
+- 2013.11.16 HelloGCC 2013 开源工具链研讨会
+- 2013.11.23 CloudStack云计算沙龙第21期
+- 2013.11.30 BLUG（北京Linux用户组）周年聚会
+- 2013.12.08 OpenSUSE 13.1 Release Party
+- 2013.12.14 PyCon China 2013
+- 2013.12.25 Fedora 20 Release Party
+- 2013.12.29 中国开源年会
+- 2014.01.13 图灵社区参观
+- 2014.01.16 openRISC社区线下聚会
+- 2014.01.18 教育自由日（EFD）全球首次 北京站
+- 2014.05.10 UbuntuKylin 14.04 LTS版本发布会 – 北京站
+- 2014.05.17 哲思沙龙第八期（听Richard Stallman讲自由软件） - 中国科学院站
+- 2014.05.17 UbuntuKylin 14.04 LTS版本长沙站及社区圆桌会议
+- 2014.09.13 2014开源开发工具大会（原HelloGCC 2013 开源工具链研讨会）
+- 2014.09.20 软件自由日（SFD） 中科院站
+- 2014.11.15 PyCon 2014 China
+- 2015.01.10 中科院开源软件协会聚会滑雪活动
+- 2015.03.14 Ubuntu 开发者创新大赛培训北京站
 
 ## Weekly meetup
 
@@ -15,7 +36,8 @@ OpenCAS每周技术交流会……
 
 ## Services
 
-### Mirrors service
+- [OpenCAS镜像站](http://mirrors.opencas.cn/)
+
 
 ## Contact
 
